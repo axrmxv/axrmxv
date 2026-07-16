@@ -1,5 +1,3 @@
-
-Readme · MD
 <h1 align="center">Alexander</h1>
 <h3 align="center">Backend engineer · AI / LLM Engineer</h3>
  
@@ -60,7 +58,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
  
 ---
  
-### 📫 Contact
+### Contact
  
 <p align="center">
   <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
