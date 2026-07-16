@@ -58,14 +58,6 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
  
 ---
  
-### 📊 Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=axrmxv&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axrmxv&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages">
-</p>
----
- 
 ### 📫 Contact
  
 <p align="center">
