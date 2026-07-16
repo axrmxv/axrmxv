@@ -7,6 +7,7 @@ Readme · MD
   <a href="https://github.com/axrmxv"><img src="https://img.shields.io/badge/GitHub-axrmxv-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=axrmxv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
+
 ---
  
 ### About me
@@ -19,21 +20,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 - 🌐 Fullstack when needed: React / TypeScript
 ---
  
-### 🚀 Проекты · Featured projects
- 
-**[News Analysis Service](https://github.com/axrmxv/news-analysis)** — анализ новостного фона компаний
-> LLM-механизм диагностики сбоев транзакций PostgreSQL (Anthropic API): диагноз формирует модель, решение о действии принимает детерминированный код с guardrails. Плюс сквозной NLP-конвейер (NER, эмбеддинги, тональность, кластеризация). Async FastAPI, Docker, CI, 66 тестов.
->
-> *LLM failure-diagnosis agent with deterministic guardrails + end-to-end NLP pipeline. FastAPI · Anthropic API · Docker.*
- 
-**[LYRA](https://github.com/axrmxv/lyra)** — self-hosted RAG-платформа корпоративных знаний
-> RAG без внешних API-ключей (Ollama Qwen2.5-7B, bge-m3, bge-reranker) с гибридным поиском (BM25 + вектор + RRF + reranker) и corrective-RAG графом на LangGraph. Вопрос вне базы получает честный отказ с цитатами источников, а не галлюцинацию. FastAPI, SQLAlchemy 2.0 async, pgvector, Celery/Redis, React, Prometheus/Grafana.
->
-> *Self-hosted corrective-RAG platform, hybrid search, no external API keys. LangGraph · pgvector · Ollama.*
- 
----
- 
-### 🛠️ Стек · Tech stack
+### 🛠️ Tech stack
  
 **Языки · Languages**
  
@@ -71,7 +58,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
  
 ---
  
-### 📊 Статистика · Stats
+### 📊 Stats
  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=axrmxv&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub stats">
@@ -79,7 +66,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 </p>
 ---
  
-### 📫 Связаться · Contact
+### 📫 Contact
  
 <p align="center">
   <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
