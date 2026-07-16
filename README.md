@@ -36,6 +36,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=claude&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
  
 **Data**
@@ -61,6 +62,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 ### Contact
  
 <p align="center">
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/axrmxv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:a.maksimoov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/axrmxv"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
