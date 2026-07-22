@@ -2,6 +2,8 @@
 <h3 align="center">Backend engineer · AI / LLM Engineer</h3>
  
 <p align="center">
+  <a href="https://t.me/axrmxv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:a.maksimoov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/axrmxv"><img src="https://img.shields.io/badge/GitHub-axrmxv-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=axrmxv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
@@ -56,13 +58,3 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
- 
----
- 
-### Contact
- 
-<p align="center">
-  <a href="https://t.me/axrmxv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:a.maksimoov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/axrmxv"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
