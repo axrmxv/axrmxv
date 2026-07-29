@@ -39,6 +39,7 @@ Backend engineer (Python / FastAPI) focused on LLM development and production pr
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20API-191919?style=flat&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
  
 **Data**
